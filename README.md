@@ -1,6 +1,6 @@
 - Hi, I’m Rylo.
 - Full Stack Web Developer based in Melbourne, Australia.
-- Interests are: building web applications, everything Web3 and skateboarding.
+- Interested in building web applications, everything Web3 and skateboarding.
 - Currently focused on JavaScript, React, Next and Solidity.
 
 <!---
