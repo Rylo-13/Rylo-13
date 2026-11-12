@@ -1,4 +1,4 @@
 - Hi, I’m Rylo.
-- Frontend dev based in Melbourne, Australia.
+- Frontend developer based in Melbourne, Australia.
 - Interested in building web applications, everything Web3 and skateboarding.
-- Tech stack includes TypeScript, React and Solidity.
+- Tech stack includes TypeScript, React, Next.js.
